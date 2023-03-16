@@ -1,8 +1,6 @@
-# discord-init-tracker-bot
-discord-init-tracker-bot
 
 # Use discord as your initiative tracker tool
-Do quite literally as the title said!
+discord-init-tracker-bot is script that using discord.py to create interactive discord bot. It does quite literally as the title said!
 
 ## To use
 
