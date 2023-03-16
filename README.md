@@ -5,8 +5,9 @@ discord-init-tracker-bot is script that using discord.py to create interactive d
 ## To use
 
 You need to 
-1. Create and assign your own discord bot.
-2. Run or use this main.py and bot.py script in your python idle.
+1. Create and setup your discord bot.
+2. Replace the TOKEN in bot.py with your bot token.
+3. Run or use this main.py and bot.py script in your python idle.
 
 
 
